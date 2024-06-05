@@ -1,0 +1,15 @@
+{
+  "name": "design-tokens-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "designsystemet tokens -o ./css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@digdir/designsystemet": "^0.1.0-alpha.5"
+  }
+}
