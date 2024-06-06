@@ -542,7 +542,7 @@
       "type": "color"
     },
     "inner": {
-      "value": "{color.neutral.background-default}",
+      "value": "#ECC238",
       "type": "color"
     }
   }
