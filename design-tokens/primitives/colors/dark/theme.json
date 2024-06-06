@@ -1,66 +1,66 @@
 {
   "theme": {
-    "accent": {
-      "1": {
-        "value": "#001c36",
-        "type": "color"
-      },
-      "2": {
-        "value": "#002445",
-        "type": "color"
-      },
-      "3": {
-        "value": "#00315c",
-        "type": "color"
-      },
-      "4": {
-        "value": "#003d75",
-        "type": "color"
-      },
-      "5": {
-        "value": "#004b8f",
-        "type": "color"
-      },
-      "6": {
-        "value": "#00529d",
-        "type": "color"
-      },
-      "7": {
-        "value": "#1972c1",
-        "type": "color"
-      },
-      "8": {
-        "value": "#9cc2e4",
-        "type": "color"
-      },
-      "9": {
-        "value": "#0062BA",
-        "type": "color"
-      },
-      "10": {
-        "value": "#005099",
-        "type": "color"
-      },
-      "11": {
-        "value": "#003d75",
-        "type": "color"
-      },
-      "12": {
-        "value": "#69a2d6",
-        "type": "color"
-      },
-      "13": {
-        "value": "#cee1f2",
-        "type": "color"
-      },
-      "contrast-1": {
-        "value": "#fefeff",
-        "type": "color"
-      },
-      "contrast-2": {
-        "value": "#ddeaf6",
-        "type": "color"
-      }
+		"accent": {
+			"1": {
+				"value": "#001d35",
+				"type": "color"
+			},
+			"2": {
+				"value": "#002444",
+				"type": "color"
+			},
+			"3": {
+				"value": "#00315d",
+				"type": "color"
+			},
+			"4": {
+				"value": "#003f75",
+				"type": "color"
+			},
+			"5": {
+				"value": "#084c89",
+				"type": "color"
+			},
+			"6": {
+				"value": "#13548e",
+				"type": "color"
+			},
+			"7": {
+				"value": "#3e73a3",
+				"type": "color"
+			},
+			"8": {
+				"value": "#aac1d6",
+				"type": "color"
+			},
+			"9": {
+				"value": "#004785",
+				"type": "color"
+			},
+			"10": {
+				"value": "#1e5c93",
+				"type": "color"
+			},
+			"11": {
+				"value": "#3b71a1",
+				"type": "color"
+			},
+			"12": {
+				"value": "#7fa2c2",
+				"type": "color"
+			},
+			"13": {
+				"value": "#d6e1eb",
+				"type": "color"
+			},
+			"contrast-1": {
+				"value": "#fefefe",
+				"type": "color"
+			},
+			"contrast-2": {
+				"value": "#d9e4ed",
+				"type": "color"
+			}
     },
     "neutral": {
       "1": {
