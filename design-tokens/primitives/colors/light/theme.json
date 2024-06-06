@@ -1,66 +1,66 @@
 {
-  "theme": {
-    "accent": {
-      "1": {
-        "value": "#fefeff",
-        "type": "color"
-      },
-      "2": {
-        "value": "#e9f1ff",
-        "type": "color"
-      },
-      "3": {
-        "value": "#d1e4ff",
-        "type": "color"
-      },
-      "4": {
-        "value": "#9ecaff",
-        "type": "color"
-      },
-      "5": {
-        "value": "#76adfb",
-        "type": "color"
-      },
-      "6": {
-        "value": "#5391e9",
-        "type": "color"
-      },
-      "7": {
-        "value": "#2b77cc",
-        "type": "color"
-      },
-      "8": {
-        "value": "#005fae",
-        "type": "color"
-      },
-      "9": {
-        "value": "#004785",
-        "type": "color"
-      },
-      "10": {
-        "value": "#00315e",
-        "type": "color"
-      },
-      "11": {
-        "value": "#001c3a",
-        "type": "color"
-      },
-      "12": {
-        "value": "#001127",
-        "type": "color"
-      },
-      "13": {
-        "value": "#001127",
-        "type": "color"
-      },
-      "contrast-1": {
-        "value": "#fefeff",
-        "type": "color"
-      },
-      "contrast-2": {
-        "value": "#ddeaf6",
-        "type": "color"
-      }
+	"theme": {
+		"accent": {
+			"1": {
+				"value": "#fefefe",
+				"type": "color"
+			},
+			"2": {
+				"value": "#f0f4f8",
+				"type": "color"
+			},
+			"3": {
+				"value": "#d9e4ed",
+				"type": "color"
+			},
+			"4": {
+				"value": "#c3d3e2",
+				"type": "color"
+			},
+			"5": {
+				"value": "#acc3d7",
+				"type": "color"
+			},
+			"6": {
+				"value": "#a5bed4",
+				"type": "color"
+			},
+			"7": {
+				"value": "#5785ae",
+				"type": "color"
+			},
+			"8": {
+				"value": "#0b4f8a",
+				"type": "color"
+			},
+			"9": {
+				"value": "#004785",
+				"type": "color"
+			},
+			"10": {
+				"value": "#1e5c93",
+				"type": "color"
+			},
+			"11": {
+				"value": "#3b71a1",
+				"type": "color"
+			},
+			"12": {
+				"value": "#2c679a",
+				"type": "color"
+			},
+			"13": {
+				"value": "#00315d",
+				"type": "color"
+			},
+			"contrast-1": {
+				"value": "#fefefe",
+				"type": "color"
+			},
+			"contrast-2": {
+				"value": "#d9e4ed",
+				"type": "color"
+			}
     },
     "neutral": {
       "1": {
