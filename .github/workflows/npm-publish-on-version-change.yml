@@ -1,0 +1,51 @@
+name: Tag and publish on version change
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '21.x'
+          registry-url: 'https://npm.pkg.github.com'
+
+      - name: Fetch all tags
+        run: git fetch --tags
+
+      - name: Check if version has changed
+        run: |
+          VERSION=$(npm pkg get version --workspaces=false | tr -d '"')
+          if git tag -l "v$VERSION" | grep -q "v$VERSION"; then
+            echo "Tag v$VERSION already exists."
+            echo "tag_exists=true" >> $GITHUB_ENV
+          else
+            echo "Tag v$VERSION does not exist."
+            echo "tag_exists=false" >> $GITHUB_ENV
+            echo "current_version=$VERSION" >> $GITHUB_ENV
+          fi
+
+      - name: Tag the commit
+        if: env.tag_exists == 'false'
+        run: |
+          VERSION=${{ env.current_version }}
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git tag -a "v$VERSION" -m "Release version $VERSION"
+          git push origin "v$VERSION"
+
+      # - name: Publish to GPR
+      #   if: env.tag_exists == 'false'
+      #   run: npm publish
+      #   env:
+      #     NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # TODO setup publishing to npmjs

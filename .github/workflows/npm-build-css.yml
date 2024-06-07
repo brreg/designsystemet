@@ -1,0 +1,35 @@
+name: Build CSS
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'design-tokens/**'
+      - 'package-lock.json'
+
+jobs:
+  build-css:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '21.x'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build CSS
+        run: npm run build
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          pull: '--rebase --autostash'
+          default_author: github_actions
+          message: 'Generated CSS'
+          add: '.'

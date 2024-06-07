@@ -1,18 +1,22 @@
-# Next Designsystemet design tokens template
+Theme for the Brønnøysund Register Centre for use with [@digdir/designsystemet](https://github.com/digdir/designsystemet)
 
-**_Planned breaking change:
-Token property names will be converted to [DTCG format](https://v4.styledictionary.com/info/dtcg/) once [Style Dictionary v4](https://v4.styledictionary.com/) and [Token Studio v2](https://tokens.studio/) is released_**
+## Using the theme:
+The package currently is not published to registry.npmjs.org, but will be eventually. For the time being the package can be installed directly from github:
 
-## Get started
+````sh
+npm install github:brreg/designsystemet#<version>
+````
+_(See [tags](https://github.com/brreg/designsystemet/tags) for available versions)_
 
-1. Install dependencies.
 
-```sh
-npm i
-```
+## Contributing
 
-2. Run the `build` script to generate tokens in CSS.
+### Updating CSS
+CSS-files are automatically generated whenever changes to token-files are pushed to `main`-branch.
 
-```sh
-npm run build
-```
+To update manually, run ```npm run build``` in your local repository.
+
+
+### Publishing a new version
+To release a new version of the package, just update the version-number in [package.json](package.json).
+_(For the time being, versions are only tagged, not published to registry.npmjs.org)_
