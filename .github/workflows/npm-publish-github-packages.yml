@@ -4,15 +4,11 @@
 name: Publish to GitHub Packages
 
 on:
-  push:
-    branches: 
-      - release-test
-  pull_request:
-    branches:
-      - release-test
+  release:
+    types: [published]
 
 jobs:
-  release:
+  build-and-release:
     runs-on: ubuntu-latest
     permissions:
       contents: read
