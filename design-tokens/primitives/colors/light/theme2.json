@@ -188,7 +188,7 @@
     },
     "brand2": {
       "1": {
-        "value": "#fffdfb",
+        "value": "#FFF2E5",
         "type": "color"
       },
       "2": {
@@ -196,15 +196,15 @@
         "type": "color"
       },
       "3": {
-        "value": "#ffdcc3",
+        "value": "#FFDBB8",
         "type": "color"
       },
       "4": {
-        "value": "#ffc59b",
+        "value": "#FFC994",
         "type": "color"
       },
       "5": {
-        "value": "#ffaf74",
+        "value": "#FFB870",
         "type": "color"
       },
       "6": {
@@ -220,23 +220,23 @@
         "type": "color"
       },
       "9": {
-        "value": "#ffa869",
+        "value": "#854200",
         "type": "color"
       },
       "10": {
-        "value": "#e1945d",
+        "value": "#5C2E00",
         "type": "color"
       },
       "11": {
-        "value": "#c38150",
+        "value": "#331A00",
         "type": "color"
       },
       "12": {
-        "value": "#865837",
+        "value": "#854200",
         "type": "color"
       },
       "13": {
-        "value": "#412b1b",
+        "value": "#331A00",
         "type": "color"
       },
       "contrast-1": {
