@@ -126,7 +126,7 @@
     },
     "brand1": {
       "1": {
-        "value": "#F7FBFF",
+        "value": "#FAFCFF",
         "type": "color"
       },
       "2": {
@@ -188,7 +188,7 @@
     },
     "brand2": {
       "1": {
-        "value": "#FFFBF7",
+        "value": "#FFFCFA",
         "type": "color"
       },
       "2": {
@@ -250,7 +250,7 @@
     },
     "brand3": {
       "1": {
-        "value": "#FCFAFF",
+        "value": "#FDFCFF",
         "type": "color"
       },
       "2": {
