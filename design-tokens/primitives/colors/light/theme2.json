@@ -2,35 +2,35 @@
   "theme2": {
     "accent": {
       "1": {
-        "value": "#fefefe",
+        "value": "#FEFEFE",
         "type": "color"
       },
       "2": {
-        "value": "#f1f4f5",
+        "value": "#EBF4FF",
         "type": "color"
       },
       "3": {
-        "value": "#d9e3e3",
+        "value": "#C2DDFF",
         "type": "color"
       },
       "4": {
-        "value": "#c6d4d5",
+        "value": "#A3CDFF",
         "type": "color"
       },
       "5": {
-        "value": "#b1c4c6",
+        "value": "#85BCFF",
         "type": "color"
       },
       "6": {
-        "value": "#a9bfc1",
+        "value": "#66ABFF",
         "type": "color"
       },
       "7": {
-        "value": "#60888b",
+        "value": "#2C7BDB",
         "type": "color"
       },
       "8": {
-        "value": "#1c555a",
+        "value": "#0049A3",
         "type": "color"
       },
       "9": {
@@ -42,15 +42,15 @@
         "type": "color"
       },
       "11": {
-        "value": "#396b6f",
+        "value": "#0049A3",
         "type": "color"
       },
       "12": {
-        "value": "#396b6f",
+        "value": "#00306B",
         "type": "color"
       },
       "13": {
-        "value": "#043639",
+        "value": "#001733",
         "type": "color"
       },
       "contrast-1": {
