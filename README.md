@@ -18,5 +18,5 @@ To update manually, run ```npm run build``` in your local repository.
 
 
 ### Publishing a new version
-To release a new version of the package, just update the version-number in [package.json](package.json).
+To release a new version of the package, just update the version-number in [package.json](package.json).  
 _(For the time being, versions are only tagged, not published to registry.npmjs.org)_
