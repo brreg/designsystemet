@@ -97,8 +97,8 @@
   --ds-global-yellow-contrast-2: #382d0a;
   --ds-color-accent-1: #FEFEFE;
   --ds-color-accent-2: #EBF4FF;
-  --ds-color-accent-3: #C2DDFF;
-  --ds-color-accent-4: #A3CDFF;
+  --ds-color-accent-3: #D6E9FF;
+  --ds-color-accent-4: #ADD2FF;
   --ds-color-accent-5: #85BCFF;
   --ds-color-accent-6: #66ABFF;
   --ds-color-accent-7: #2E78D1;
@@ -157,8 +157,8 @@
   --ds-color-neutral-contrast-subtle: var(--ds-color-neutral-contrast-2);
   --ds-color-brand1-1: #FAFCFF;
   --ds-color-brand1-2: #EBF4FF;
-  --ds-color-brand1-3: #C2DDFF;
-  --ds-color-brand1-4: #A3CDFF;
+  --ds-color-brand1-3: #D6E9FF;
+  --ds-color-brand1-4: #ADD2FF;
   --ds-color-brand1-5: #85BCFF;
   --ds-color-brand1-6: #66ABFF;
   --ds-color-brand1-7: #2E78D1;
@@ -187,8 +187,8 @@
   --ds-color-brand1-contrast-subtle: var(--ds-color-brand1-contrast-2);
   --ds-color-brand2-1: #FFFCFA;
   --ds-color-brand2-2: #FFF2E5;
-  --ds-color-brand2-3: #FFDBB8;
-  --ds-color-brand2-4: #FFC994;
+  --ds-color-brand2-3: #FFE6CC;
+  --ds-color-brand2-4: #FFCF9E;
   --ds-color-brand2-5: #FFB870;
   --ds-color-brand2-6: #FFA142;
   --ds-color-brand2-7: #C26D19;
@@ -217,8 +217,8 @@
   --ds-color-brand2-contrast-subtle: var(--ds-color-brand2-contrast-2);
   --ds-color-brand3-1: #FDFCFF;
   --ds-color-brand3-2: #F6EDFF;
-  --ds-color-brand3-3: #E5CCFF;
-  --ds-color-brand3-4: #D9B2FF;
+  --ds-color-brand3-3: #F0E0FF;
+  --ds-color-brand3-4: #DEBDFF;
   --ds-color-brand3-5: #CC99FF;
   --ds-color-brand3-6: #B266FF;
   --ds-color-brand3-7: #802ED1;
