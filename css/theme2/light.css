@@ -126,18 +126,18 @@
   --ds-color-accent-contrast-default: var(--ds-color-accent-contrast-1);
   --ds-color-accent-contrast-subtle: var(--ds-color-accent-contrast-2);
   --ds-color-neutral-1: #fefefe;
-  --ds-color-neutral-2: #f3f4f5;
-  --ds-color-neutral-3: #e1e3e5;
-  --ds-color-neutral-4: #ced1d4;
-  --ds-color-neutral-5: #bdc1c6;
-  --ds-color-neutral-6: #b8bcc1;
-  --ds-color-neutral-7: #7a818c;
-  --ds-color-neutral-8: #444e5d;
-  --ds-color-neutral-9: #444e5d;
-  --ds-color-neutral-10: #303c4b;
-  --ds-color-neutral-11: #1E2B3C;
-  --ds-color-neutral-12: #3c4756;
-  --ds-color-neutral-13: #1e2b3c;
+  --ds-color-neutral-2: #F7F9FA;
+  --ds-color-neutral-3: #E1E5EB;
+  --ds-color-neutral-4: #CBD0D6;
+  --ds-color-neutral-5: #B2B9C2;
+  --ds-color-neutral-6: #A1A9B2;
+  --ds-color-neutral-7: #697380;
+  --ds-color-neutral-8: #45505D;
+  --ds-color-neutral-9: #45505D;
+  --ds-color-neutral-10: #25303D;
+  --ds-color-neutral-11: #14202E;
+  --ds-color-neutral-12: #222C38;
+  --ds-color-neutral-13: #14202E;
   --ds-color-neutral-contrast-1: #fefefe;
   --ds-color-neutral-contrast-2: #aeb4b5;
   --ds-color-neutral-background-default: var(--ds-color-neutral-1);
@@ -392,7 +392,7 @@
   --ds-shadow-md: 0 0 1px 0 rgba(0,0,0,0.14), 0 2px 4px 0 rgba(0,0,0,0.12), 0 4px 8px 0 rgba(0,0,0,0.12);
   --ds-shadow-lg: 0 0 1px 0 rgba(0,0,0,0.13), 0 3px 5px 0 rgba(0,0,0,0.13), 0 6px 12px 0 rgba(0,0,0,0.14);
   --ds-shadow-xl: 0 0 1px 0 rgba(0,0,0,0.12), 0 4px 8px 0 rgba(0,0,0,0.16), 0 12px 24px 0 rgba(0,0,0,0.16);
-  --ds-focus-outer: #1e2b3c;
+  --ds-focus-outer: #14202E;
   --ds-focus-inner: #ECC238;
 }
       
