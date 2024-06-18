@@ -1,6 +1,6 @@
 {
   "name": "@brreg/designsystemet-theme",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@digdir/designsystemet": "^0.1.0-alpha.10"
+    "@digdir/designsystemet": "0.1.0-alpha.5"
   }
 }

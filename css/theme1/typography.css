@@ -2,189 +2,190 @@
  * These files are generated from design tokens defind using Token Studio
  */
 
+
 @layer ds.typography {
 
-  .ds-heading-2xl {
+  .ds-typography-heading-2xl {
     font-size: 3.75rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-heading-xl {
+  .ds-typography-heading-xl {
     font-size: 3rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-heading-lg {
+  .ds-typography-heading-lg {
     font-size: 2.25rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-heading-md {
+  .ds-typography-heading-md {
     font-size: 1.875rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-heading-sm {
+  .ds-typography-heading-sm {
     font-size: 1.5rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-heading-xs {
+  .ds-typography-heading-xs {
     font-size: 1.3125rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-heading-2xs {
+  .ds-typography-heading-2xs {
     font-size: 1.125rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-ingress-lg {
+  .ds-typography-ingress-lg {
     font-size: 1.875rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-ingress-md {
+  .ds-typography-ingress-md {
     font-size: 1.5rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-ingress-sm {
+  .ds-typography-ingress-sm {
     font-size: 1.3125rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-ingress-xs {
+  .ds-typography-ingress-xs {
     font-size: 1.125rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-paragraph-lg {
+  .ds-typography-paragraph-lg {
     font-size: 1.3125rem;
     line-height: 1.5;
     font-weight: 400;
   }
 
-  .ds-paragraph-md {
+  .ds-typography-paragraph-md {
     font-size: 1.125rem;
     line-height: 1.5;
     font-weight: 400;
   }
 
-  .ds-paragraph-sm {
+  .ds-typography-paragraph-sm {
     font-size: 1rem;
     line-height: 1.5;
     font-weight: 400;
   }
 
-  .ds-paragraph-xs {
+  .ds-typography-paragraph-xs {
     font-size: 0.875rem;
     line-height: 1.5;
     font-weight: 400;
   }
 
-  .ds-paragraph-short-lg {
+  .ds-typography-paragraph-short-lg {
     font-size: 1.3125rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-paragraph-short-md {
+  .ds-typography-paragraph-short-md {
     font-size: 1.125rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-paragraph-short-sm {
+  .ds-typography-paragraph-short-sm {
     font-size: 1rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-paragraph-short-xs {
+  .ds-typography-paragraph-short-xs {
     font-size: 0.875rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-paragraph-long-lg {
+  .ds-typography-paragraph-long-lg {
     font-size: 1.125rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-paragraph-long-md {
+  .ds-typography-paragraph-long-md {
     font-size: 1rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-paragraph-long-sm {
+  .ds-typography-paragraph-long-sm {
     font-size: 0.875rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-paragraph-long-xs {
+  .ds-typography-paragraph-long-xs {
     font-size: 0.8125rem;
     line-height: 1.7;
     font-weight: 400;
   }
 
-  .ds-label-lg {
+  .ds-typography-label-lg {
     font-size: 1.3125rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-label-md {
+  .ds-typography-label-md {
     font-size: 1.125rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-label-sm {
+  .ds-typography-label-sm {
     font-size: 1rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-label-xs {
+  .ds-typography-label-xs {
     font-size: 0.875rem;
     line-height: 1.3;
     font-weight: 500;
   }
 
-  .ds-error_message-lg {
+  .ds-typography-error_message-lg {
     font-size: 1.3125rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-error_message-md {
+  .ds-typography-error_message-md {
     font-size: 1.125rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-error_message-sm {
+  .ds-typography-error_message-sm {
     font-size: 1rem;
     line-height: 1.3;
     font-weight: 400;
   }
 
-  .ds-error_message-xs {
+  .ds-typography-error_message-xs {
     font-size: 0.875rem;
     line-height: 1.3;
     font-weight: 400;
