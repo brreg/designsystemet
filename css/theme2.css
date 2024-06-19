@@ -1,3 +1,6 @@
-@import url('./theme2/dark.css');
+@import url('./theme2/color-mode/light.css');
 @import url('./theme2/light.css');
+@import url('./theme2/color-mode/dark.css');
 @import url('./theme2/typography.css');
+@import url('./theme2/semantic.css');
+@import url('./theme2/dark.css');
