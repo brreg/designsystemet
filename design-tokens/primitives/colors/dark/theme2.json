@@ -54,11 +54,11 @@
         "type": "color"
       },
       "contrast-1": {
-        "value": "#fefefe",
+        "value": "#0D2542",
         "type": "color"
       },
       "contrast-2": {
-        "value": "#ccd9da",
+        "value": "#102D4F",
         "type": "color"
       }
     },
@@ -116,11 +116,11 @@
         "type": "color"
       },
       "contrast-1": {
-        "value": "#fefefe",
+        "value": "#131E2B",
         "type": "color"
       },
       "contrast-2": {
-        "value": "#aeb4b5",
+        "value": "#263240",
         "type": "color"
       }
     },
@@ -178,11 +178,11 @@
         "type": "color"
       },
       "contrast-1": {
-        "value": "#fefeff",
+        "value": "#0D2542",
         "type": "color"
       },
       "contrast-2": {
-        "value": "#f3f4fc",
+        "value": "#102D4F",
         "type": "color"
       }
     },
@@ -240,11 +240,11 @@
         "type": "color"
       },
       "contrast-1": {
-        "value": "#000000",
+        "value": "#42280D",
         "type": "color"
       },
       "contrast-2": {
-        "value": "#362316",
+        "value": "#4F2F10",
         "type": "color"
       }
     },
@@ -302,11 +302,11 @@
         "type": "color"
       },
       "contrast-1": {
-        "value": "#000000",
+        "value": "#2B1442",
         "type": "color"
       },
       "contrast-2": {
-        "value": "#050807",
+        "value": "#33184F",
         "type": "color"
       }
     }
