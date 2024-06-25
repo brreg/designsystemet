@@ -126,7 +126,7 @@
     },
     "brand1": {
       "1": {
-        "value": "#0D2542",
+        "value": "#0C2038",
         "type": "color"
       },
       "2": {
@@ -134,51 +134,51 @@
         "type": "color"
       },
       "3": {
-        "value": "#0D2542",
+        "value": "#163F70",
         "type": "color"
       },
       "4": {
-        "value": "#153C6B",
+        "value": "#163F70",
         "type": "color"
       },
       "5": {
-        "value": "#1E5394",
+        "value": "#215CA3",
         "type": "color"
       },
       "6": {
-        "value": "#1E5394",
+        "value": "#215CA3",
         "type": "color"
       },
       "7": {
-        "value": "#2B6FC2",
+        "value": "#4B87D1",
         "type": "color"
       },
       "8": {
-        "value": "#458DE5",
+        "value": "#85BCFF",
         "type": "color"
       },
       "9": {
-        "value": "#A3CDFF",
+        "value": "#85BCFF",
         "type": "color"
       },
       "10": {
-        "value": "#C2DDFF",
+        "value": "#A3CDFF",
         "type": "color"
       },
       "11": {
-        "value": "#E0EEFF",
+        "value": "#C2DEFF",
         "type": "color"
       },
       "12": {
-        "value": "#E0EEFF",
+        "value": "#A3CDFF",
         "type": "color"
       },
       "13": {
-        "value": "#F5F9FF",
+        "value": "#C2DEFF",
         "type": "color"
       },
       "contrast-1": {
-        "value": "#0D2542",
+        "value": "#0C2038",
         "type": "color"
       },
       "contrast-2": {
