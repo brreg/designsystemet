@@ -557,6 +557,16 @@
         "type": "color",
         "value": "{global.yellow.contrast-2}"
       }
+    },
+    "focus": {
+      "inner": {
+        "type": "color",
+        "value": "#ECC238"
+      },
+      "outer": {
+        "type": "color",
+        "value": "{color.neutral.text-default}"
+      }
     }
   }
 }
