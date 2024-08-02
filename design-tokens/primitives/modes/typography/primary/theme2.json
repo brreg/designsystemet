@@ -2,7 +2,7 @@
   "theme2": {
     "main": {
       "type": "fontFamilies",
-      "value": "Open Sans"
+      "value": "Helvetica Neue"
     },
     "bold": {
       "$extensions": {
