@@ -15,7 +15,7 @@ _(See [tags](https://github.com/brreg/designsystemet/tags) for available version
 
 ### 3. Import theme-css
 ````ts
-import '@brreg/designsystemet/css/brreg.css'
+import '@brreg/designsystemet-theme/css/brreg.css'
 ````
 
 ## Contributing
