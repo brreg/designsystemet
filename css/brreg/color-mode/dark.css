@@ -304,8 +304,8 @@
   --ds-color-warning-text-default: var(--ds-global-orange-13);
   --ds-color-warning-contrast-default: var(--ds-global-yellow-contrast-1);
   --ds-color-warning-contrast-subtle: var(--ds-global-yellow-contrast-2);
-  --ds-color-focus-inner: #ECC238;
-  --ds-color-focus-outer: #EBEDF0;
+  --ds-color-focus-inner: #131E2B;
+  --ds-color-focus-outer: #ECC238;
 color-scheme: dark;
 }
  
