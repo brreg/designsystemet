@@ -124,190 +124,190 @@
         "$value": "{brreg.neutral.contrast-2}"
       }
     },
-    "purple": {
+    "support-purple": {
       "1": {
         "$type": "color",
-        "$value": "{brreg.purple.1}"
+        "$value": "{brreg.support-purple.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{brreg.purple.2}"
+        "$value": "{brreg.support-purple.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{brreg.purple.3}"
+        "$value": "{brreg.support-purple.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{brreg.purple.4}"
+        "$value": "{brreg.support-purple.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{brreg.purple.5}"
+        "$value": "{brreg.support-purple.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{brreg.purple.6}"
+        "$value": "{brreg.support-purple.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{brreg.purple.7}"
+        "$value": "{brreg.support-purple.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{brreg.purple.8}"
+        "$value": "{brreg.support-purple.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{brreg.purple.9}"
+        "$value": "{brreg.support-purple.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{brreg.purple.10}"
+        "$value": "{brreg.support-purple.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{brreg.purple.11}"
+        "$value": "{brreg.support-purple.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{brreg.purple.12}"
+        "$value": "{brreg.support-purple.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{brreg.purple.13}"
+        "$value": "{brreg.support-purple.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{brreg.purple.contrast-1}"
+        "$value": "{brreg.support-purple.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{brreg.purple.contrast-2}"
+        "$value": "{brreg.support-purple.contrast-2}"
       }
     },
-    "green": {
+    "support-green": {
       "1": {
         "$type": "color",
-        "$value": "{brreg.green.1}"
+        "$value": "{brreg.support-green.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{brreg.green.2}"
+        "$value": "{brreg.support-green.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{brreg.green.3}"
+        "$value": "{brreg.support-green.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{brreg.green.4}"
+        "$value": "{brreg.support-green.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{brreg.green.5}"
+        "$value": "{brreg.support-green.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{brreg.green.6}"
+        "$value": "{brreg.support-green.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{brreg.green.7}"
+        "$value": "{brreg.support-green.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{brreg.green.8}"
+        "$value": "{brreg.support-green.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{brreg.green.9}"
+        "$value": "{brreg.support-green.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{brreg.green.10}"
+        "$value": "{brreg.support-green.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{brreg.green.11}"
+        "$value": "{brreg.support-green.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{brreg.green.12}"
+        "$value": "{brreg.support-green.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{brreg.green.13}"
+        "$value": "{brreg.support-green.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{brreg.green.contrast-1}"
+        "$value": "{brreg.support-green.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{brreg.green.contrast-2}"
+        "$value": "{brreg.support-green.contrast-2}"
       }
     },
-    "blue": {
+    "support-blue": {
       "1": {
         "$type": "color",
-        "$value": "{brreg.blue.1}"
+        "$value": "{brreg.support-blue.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{brreg.blue.2}"
+        "$value": "{brreg.support-blue.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{brreg.blue.3}"
+        "$value": "{brreg.support-blue.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{brreg.blue.4}"
+        "$value": "{brreg.support-blue.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{brreg.blue.5}"
+        "$value": "{brreg.support-blue.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{brreg.blue.6}"
+        "$value": "{brreg.support-blue.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{brreg.blue.7}"
+        "$value": "{brreg.support-blue.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{brreg.blue.8}"
+        "$value": "{brreg.support-blue.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{brreg.blue.9}"
+        "$value": "{brreg.support-blue.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{brreg.blue.10}"
+        "$value": "{brreg.support-blue.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{brreg.blue.11}"
+        "$value": "{brreg.support-blue.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{brreg.blue.12}"
+        "$value": "{brreg.support-blue.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{brreg.blue.13}"
+        "$value": "{brreg.support-blue.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{brreg.blue.contrast-1}"
+        "$value": "{brreg.support-blue.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{brreg.blue.contrast-2}"
+        "$value": "{brreg.support-blue.contrast-2}"
       }
     }
   },

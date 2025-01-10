@@ -3,63 +3,63 @@
     "support": {
       "background-default": {
         "$type": "color",
-        "$value": "{color.purple.background-default}"
+        "$value": "{color.support-purple.background-default}"
       },
       "background-subtle": {
         "$type": "color",
-        "$value": "{color.purple.background-subtle}"
+        "$value": "{color.support-purple.background-subtle}"
       },
       "surface-default": {
         "$type": "color",
-        "$value": "{color.purple.surface-default}"
+        "$value": "{color.support-purple.surface-default}"
       },
       "surface-hover": {
         "$type": "color",
-        "$value": "{color.purple.surface-hover}"
+        "$value": "{color.support-purple.surface-hover}"
       },
       "surface-active": {
         "$type": "color",
-        "$value": "{color.purple.surface-active}"
+        "$value": "{color.support-purple.surface-active}"
       },
       "border-subtle": {
         "$type": "color",
-        "$value": "{color.purple.border-subtle}"
+        "$value": "{color.support-purple.border-subtle}"
       },
       "border-default": {
         "$type": "color",
-        "$value": "{color.purple.border-default}"
+        "$value": "{color.support-purple.border-default}"
       },
       "border-strong": {
         "$type": "color",
-        "$value": "{color.purple.border-strong}"
+        "$value": "{color.support-purple.border-strong}"
       },
       "base-default": {
         "$type": "color",
-        "$value": "{color.purple.base-default}"
+        "$value": "{color.support-purple.base-default}"
       },
       "base-hover": {
         "$type": "color",
-        "$value": "{color.purple.base-hover}"
+        "$value": "{color.support-purple.base-hover}"
       },
       "base-active": {
         "$type": "color",
-        "$value": "{color.purple.base-active}"
+        "$value": "{color.support-purple.base-active}"
       },
       "text-subtle": {
         "$type": "color",
-        "$value": "{color.purple.text-subtle}"
+        "$value": "{color.support-purple.text-subtle}"
       },
       "text-default": {
         "$type": "color",
-        "$value": "{color.purple.text-default}"
+        "$value": "{color.support-purple.text-default}"
       },
       "contrast-default": {
         "$type": "color",
-        "$value": "{color.purple.contrast-default}"
+        "$value": "{color.support-purple.contrast-default}"
       },
       "contrast-subtle": {
         "$type": "color",
-        "$value": "{color.purple.contrast-subtle}"
+        "$value": "{color.support-purple.contrast-subtle}"
       }
     }
   }

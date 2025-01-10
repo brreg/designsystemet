@@ -62,7 +62,7 @@
         "$value": "#f5f8fc"
       }
     },
-    "purple": {
+    "support-purple": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"
@@ -124,7 +124,7 @@
         "$value": "#e4d7f0"
       }
     },
-    "green": {
+    "support-green": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"
@@ -186,7 +186,7 @@
         "$value": "#dae5dc"
       }
     },
-    "blue": {
+    "support-blue": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"

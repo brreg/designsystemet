@@ -17,9 +17,9 @@
     "themes/brreg",
     "semantic/color",
     "semantic/modes/main-color/brand",
-    "semantic/modes/support-color/purple",
-    "semantic/modes/support-color/green",
-    "semantic/modes/support-color/blue",
+    "semantic/modes/support-color/support-purple",
+    "semantic/modes/support-color/support-green",
+    "semantic/modes/support-color/support-blue",
     "semantic/style",
     "Figma/components"
   ]

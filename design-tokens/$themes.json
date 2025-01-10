@@ -217,26 +217,26 @@
     "group": "Main color"
   },
   {
-    "id": "d5bd20cd5c66aee8decab2407a33a8aa764934a1",
-    "name": "purple",
+    "id": "86f16e26cf5f4142fdde0f2aecf68a42083e0efa",
+    "name": "support-purple",
     "selectedTokenSets": {
-      "semantic/modes/support-color/purple": "enabled"
+      "semantic/modes/support-color/support-purple": "enabled"
     },
     "group": "Support color"
   },
   {
-    "id": "ca26635935bfed11f2d8b3248aedbbc2f1cf5137",
-    "name": "green",
+    "id": "14a8cbd34ab91d193640e5fb14fd0f9182cf4f7c",
+    "name": "support-green",
     "selectedTokenSets": {
-      "semantic/modes/support-color/green": "enabled"
+      "semantic/modes/support-color/support-green": "enabled"
     },
     "group": "Support color"
   },
   {
-    "id": "7ab1509725324960a0e2d4668d56ef1801c05578",
-    "name": "blue",
+    "id": "bd6fcfacfd9dbf5af049ac517eb35f3e8df279e0",
+    "name": "support-blue",
     "selectedTokenSets": {
-      "semantic/modes/support-color/blue": "enabled"
+      "semantic/modes/support-color/support-blue": "enabled"
     },
     "group": "Support color"
   }
