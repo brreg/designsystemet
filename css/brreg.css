@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-@layer ds.reset, ds.theme, ds.base, ds.utilities, ds.components;
-
-@import url('./brreg/color-mode/light.css');
-@import url('./brreg/typography/secondary.css');
-@import url('./brreg/semantic.css');
-@import url('./brreg/color-mode/dark.css');
-@import url('./brreg/typography/primary.css');
