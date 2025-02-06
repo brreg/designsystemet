@@ -683,8 +683,8 @@
 
 @layer ds.theme.color-scheme.dark {
 [data-color-scheme="dark"] {
-  --ds-color-brand-background-default: #001c3e;
-  --ds-color-brand-background-subtle: #00244e;
+  --ds-color-brand-background-default: #0c2038;
+  --ds-color-brand-background-subtle: #102d4f;
   --ds-color-brand-surface-default: #012e65;
   --ds-color-brand-surface-hover: #013a80;
   --ds-color-brand-surface-active: #01479c;
@@ -916,8 +916,8 @@
  
 @media (prefers-color-scheme: dark) {
   [data-color-scheme="auto"] {
-  --ds-color-brand-background-default: #001c3e;
-  --ds-color-brand-background-subtle: #00244e;
+  --ds-color-brand-background-default: #0c2038;
+  --ds-color-brand-background-subtle: #102d4f;
   --ds-color-brand-surface-default: #012e65;
   --ds-color-brand-surface-hover: #013a80;
   --ds-color-brand-surface-active: #01479c;
