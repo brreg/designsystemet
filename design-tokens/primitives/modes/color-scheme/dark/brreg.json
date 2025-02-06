@@ -3,11 +3,11 @@
     "brand": {
       "1": {
         "$type": "color",
-        "$value": "#001c3e"
+        "$value": "#0c2038"
       },
       "2": {
         "$type": "color",
-        "$value": "#00244e"
+        "$value": "#102d4f"
       },
       "3": {
         "$type": "color",
