@@ -5,16 +5,16 @@
 @layer ds.theme.color-scheme.light {
 :root, [data-color-scheme="light"] {
   --ds-color-brand-background-default: #ffffff;
-  --ds-color-brand-background-subtle: #f7f9fa;
+  --ds-color-brand-background-subtle: #f5f9ff;
   --ds-color-brand-surface-default: #e0eeff;
-  --ds-color-brand-surface-hover: #bed4ed;
+  --ds-color-brand-surface-hover: #c2ddff;
   --ds-color-brand-surface-active: #a3cdff;
   --ds-color-brand-border-subtle: #a3cdff;
-  --ds-color-brand-border-default: #4380ca;
+  --ds-color-brand-border-default: #4791eb;
   --ds-color-brand-border-strong: #125fbd;
   --ds-color-brand-base-default: #0154b8;
-  --ds-color-brand-base-hover: #014291;
-  --ds-color-brand-base-active: #01326e;
+  --ds-color-brand-base-hover: #003575;
+  --ds-color-brand-base-active: #001e42;
   --ds-color-brand-text-subtle: #003575;
   --ds-color-brand-text-default: #001e42;
   --ds-color-brand-contrast-default: #ffffff;
@@ -238,16 +238,16 @@
 @media (prefers-color-scheme: light) {
   [data-color-scheme="auto"] {
   --ds-color-brand-background-default: #ffffff;
-  --ds-color-brand-background-subtle: #f7f9fa;
+  --ds-color-brand-background-subtle: #f5f9ff;
   --ds-color-brand-surface-default: #e0eeff;
-  --ds-color-brand-surface-hover: #bed4ed;
+  --ds-color-brand-surface-hover: #c2ddff;
   --ds-color-brand-surface-active: #a3cdff;
   --ds-color-brand-border-subtle: #a3cdff;
-  --ds-color-brand-border-default: #4380ca;
+  --ds-color-brand-border-default: #4791eb;
   --ds-color-brand-border-strong: #125fbd;
   --ds-color-brand-base-default: #0154b8;
-  --ds-color-brand-base-hover: #014291;
-  --ds-color-brand-base-active: #01326e;
+  --ds-color-brand-base-hover: #003575;
+  --ds-color-brand-base-active: #001e42;
   --ds-color-brand-text-subtle: #003575;
   --ds-color-brand-text-default: #001e42;
   --ds-color-brand-contrast-default: #ffffff;
