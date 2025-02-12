@@ -283,23 +283,23 @@
       },
       "9": {
         "$type": "color",
-        "$value": "#29303D"
+        "$value": "#545a63"
       },
       "10": {
         "$type": "color",
-        "$value": "#3b414d"
+        "$value": "#363a3f"
       },
       "11": {
         "$type": "color",
-        "$value": "#4f545f"
+        "$value": "#1b2028"
       },
       "12": {
         "$type": "color",
-        "$value": "#5c626b"
+        "$value": "#363a3f"
       },
       "13": {
         "$type": "color",
-        "$value": "#252c37"
+        "$value": "#1b2028"
       },
       "contrast-1": {
         "$type": "color",
@@ -307,7 +307,7 @@
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "#c4c6ca"
+        "$value": "#f7f7f8"
       }
     }
   }
