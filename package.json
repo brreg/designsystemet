@@ -1,6 +1,6 @@
 {
   "name": "@brreg/designsystemet-theme",
-  "version": "0.1.9",
+  "version": "0.1.8",
   "description": "Designsystem-tema for Brønnøysundregistrene",
   "license": "MIT",
   "repository": {
@@ -8,11 +8,11 @@
     "url": "https://github.com/brreg/designsystemet.git"
   },
   "files": [
-    "dist"
+    "css"
   ],
   "exports": {
-    ".": "./dist/*",
-    "./*": "./dist/css/brreg.css"
+    "./css/*": "./css/*",
+    ".": "./css/brreg.css"
   },
   "publishConfig": {
     "access": "public"
@@ -20,7 +20,7 @@
   "moduleResolution": "bundler",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "designsystemet tokens build -o ./dist/css"
+    "build": "designsystemet tokens build -o ./css"
   },
   "devDependencies": {
     "@digdir/designsystemet": "^1.0.0-next.49"

@@ -5,8 +5,8 @@
 @layer ds.theme.color {
 :root {
   --ds-color-accent-background-default: var(--ds-color-brand-background-default);
-  --ds-color-accent-background-subtle: var(--ds-color-brand-background-subtle);
-  --ds-color-accent-surface-default: var(--ds-color-brand-surface-default);
+  --ds-color-accent-background-tinted: var(--ds-color-brand-background-subtle);
+  --ds-color-accent-surface-tinted: var(--ds-color-brand-surface-default);
   --ds-color-accent-surface-hover: var(--ds-color-brand-surface-hover);
   --ds-color-accent-surface-active: var(--ds-color-brand-surface-active);
   --ds-color-accent-border-subtle: var(--ds-color-brand-border-subtle);
@@ -17,8 +17,8 @@
   --ds-color-accent-base-active: var(--ds-color-brand-base-active);
   --ds-color-accent-text-subtle: var(--ds-color-brand-text-subtle);
   --ds-color-accent-text-default: var(--ds-color-brand-text-default);
-  --ds-color-accent-contrast-default: var(--ds-color-brand-contrast-default);
-  --ds-color-accent-contrast-subtle: var(--ds-color-brand-contrast-subtle);
+  --ds-color-accent-base-contrast-default: var(--ds-color-brand-contrast-default);
+  --ds-color-accent-base-contrast-subtle: var(--ds-color-brand-contrast-subtle);
 }
 
 }
