@@ -1,7 +1,6 @@
 Theme for the Brønnøysund Register Centre for use with [@digdir/designsystemet](https://github.com/digdir/designsystemet)
 
-![Latest release](https://img.shields.io/npm/v/@brreg/designsystemet-theme)
-
+[![Latest release](https://img.shields.io/npm/v/%40brreg%2Fdesignsystemet-theme)](https://www.npmjs.com/package/@brreg/designsystemet-theme)
 
 ## Gettings started:
 
