@@ -729,7 +729,7 @@
     "focus": {
       "inner": {
         "$type": "color",
-        "$value": "{color.neutral.background-default}"
+        "$value": "#ECC238"
       },
       "outer": {
         "$type": "color",
