@@ -2,9 +2,11 @@ import type {} from '@digdir/designsystemet-react/colors';
 
 declare module '@digdir/designsystemet-react/colors' {
   export interface MainAndSupportColors {
-    brand: never;
-    support-purple: never;
-    support-green: never;
-    support-blue: never;
+    main1: never;
+    main2: never;
+    support1: never;
+    support2: never;
+    support3: never;
+    support4: never;
   }
 }
