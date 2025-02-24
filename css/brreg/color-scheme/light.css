@@ -262,6 +262,8 @@
   --ds-global-red-14: #791111;
   --ds-global-red-15: #f7e1e1;
   --ds-global-red-16: #ffffff;
+  --ds-global-override-focus1: #ECC238;
+  --ds-global-override-focus2: #15181E;
 
   color-scheme: light;
 }
@@ -526,6 +528,8 @@
   --ds-global-red-14: #791111;
   --ds-global-red-15: #f7e1e1;
   --ds-global-red-16: #ffffff;
+  --ds-global-override-focus1: #ECC238;
+  --ds-global-override-focus2: #15181E;
 
   color-scheme: light;
 }
