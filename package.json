@@ -23,6 +23,9 @@
     "build": "designsystemet tokens build -o ./css"
   },
   "devDependencies": {
-    "@digdir/designsystemet": "^1.0.0-next.49"
+    "@digdir/designsystemet": "^1.0.0"
+  },
+  "peerDependencies": {
+    "@digdir/designsystemet-theme": ">=1.0.0"
   }
 }
