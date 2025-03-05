@@ -1,6 +1,6 @@
 {
   "name": "@brreg/designsystemet-theme",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Designsystem-tema for Brønnøysundregistrene",
   "license": "MIT",
   "repository": {
@@ -26,6 +26,6 @@
     "@digdir/designsystemet": "^1.0.0"
   },
   "peerDependencies": {
-    "@digdir/designsystemet-theme": ">=1.0.0"
+    "@digdir/designsystemet-theme": "^1.0.1"
   }
 }
