@@ -3,15 +3,15 @@
     "main1": {
       "1": {
         "$type": "color",
-        "$value": "#040C16"
+        "$value": "#020509"
       },
       "2": {
         "$type": "color",
-        "$value": "#04182F"
+        "$value": "#030C17"
       },
       "3": {
         "$type": "color",
-        "$value": "#030C17"
+        "$value": "#04182F"
       },
       "4": {
         "$type": "color",
@@ -69,15 +69,15 @@
     "main2": {
       "1": {
         "$type": "color",
-        "$value": "#02090E"
+        "$value": "#010609"
       },
       "2": {
         "$type": "color",
-        "$value": "#05202E"
+        "$value": "#030E16"
       },
       "3": {
         "$type": "color",
-        "$value": "#030E16"
+        "$value": "#05202E"
       },
       "4": {
         "$type": "color",
@@ -135,15 +135,15 @@
     "support1": {
       "1": {
         "$type": "color",
-        "$value": "#08030D"
+        "$value": "#050208"
       },
       "2": {
         "$type": "color",
-        "$value": "#19082B"
+        "$value": "#0D0515"
       },
       "3": {
         "$type": "color",
-        "$value": "#0D0515"
+        "$value": "#19082B"
       },
       "4": {
         "$type": "color",
@@ -201,19 +201,19 @@
     "support2": {
       "1": {
         "$type": "color",
-        "$value": "#0F0800"
+        "$value": "#0A0500"
       },
       "2": {
         "$type": "color",
-        "$value": "#2E1700"
+        "$value": "#1A0E00"
       },
       "3": {
         "$type": "color",
-        "$value": "#1A0E00"
+        "$value": "#331A00"
       },
       "4": {
         "$type": "color",
-        "$value": "#381D00"
+        "$value": "#422200"
       },
       "5": {
         "$type": "color",
@@ -267,15 +267,15 @@
     "support3": {
       "1": {
         "$type": "color",
-        "$value": "#02090E"
+        "$value": "#010609"
       },
       "2": {
         "$type": "color",
-        "$value": "#05202E"
+        "$value": "#030E16"
       },
       "3": {
         "$type": "color",
-        "$value": "#030E16"
+        "$value": "#05202E"
       },
       "4": {
         "$type": "color",
@@ -333,19 +333,19 @@
     "support4": {
       "1": {
         "$type": "color",
-        "$value": "#020D04"
+        "$value": "#010903"
       },
       "2": {
         "$type": "color",
-        "$value": "#07270B"
+        "$value": "#031607"
       },
       "3": {
         "$type": "color",
-        "$value": "#031607"
+        "$value": "#082B0C"
       },
       "4": {
         "$type": "color",
-        "$value": "#09330F"
+        "$value": "#0A3811"
       },
       "5": {
         "$type": "color",
