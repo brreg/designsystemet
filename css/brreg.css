@@ -510,7 +510,7 @@
 :root {
   --ds-size-base: 18;
   --ds-size-step: 4;
-  --ds-border-radius-base: 0.5rem;
+  --ds-border-radius-base: 0.25rem;
   --ds-border-radius-scale: 0.25rem;
   --ds-border-radius-sm: min(var(--ds-border-radius-base)*0.5,var(--ds-border-radius-scale));
   --ds-border-radius-md: min(var(--ds-border-radius-base),var(--ds-border-radius-scale)*2);
