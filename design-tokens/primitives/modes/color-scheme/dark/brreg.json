@@ -399,19 +399,19 @@
     "neutral": {
       "1": {
         "$type": "color",
-        "$value": "#040506"
+        "$value": "#0A0C0F"
       },
       "2": {
         "$type": "color",
-        "$value": "#161B22"
+        "$value": "#14191F"
       },
       "3": {
         "$type": "color",
-        "$value": "#0A0C0F"
+        "$value": "#1B2028"
       },
       "4": {
         "$type": "color",
-        "$value": "#1B2028"
+        "$value": "#232934"
       },
       "5": {
         "$type": "color",
