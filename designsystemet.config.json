@@ -402,63 +402,67 @@
           },
           "neutral": {
             "background-default": {
-              "dark": "#0A0C0F"
+              "light": "#F9F9F9",
+              "dark": "#050505"
             },
             "background-tinted": {
-              "dark": "#14191F"
+              "light": "#EBEBEB",
+              "dark": "#141414"
             },
             "surface-default": {
-              "dark": "#1B2028"
+              "light": "#F3F3F3",
+              "dark": "#0D0D0D"
             },
             "surface-tinted": {
-              "light": "#E4E5E7",
-              "dark": "#232934"
+              "light": "#E0E0E0",
+              "dark": "#1C1C1C"
             },
             "surface-hover": {
-              "light": "#CACBCE",
-              "dark": "#2F3337"
+              "light": "#D6D6D6",
+              "dark": "#2E2E2E"
             },
             "surface-active": {
-              "light": "#BCBEC2",
-              "dark": "#444950"
+              "light": "#CFCFCF",
+              "dark": "#404040"
             },
             "border-subtle": {
-              "light": "#A1A5AA",
-              "dark": "#7A7F87"
+              "light": "#545454",
+              "dark": "#ABABAB"
             },
             "border-default": {
-              "light": "#7A7F87",
-              "dark": "#A1A5AA"
+              "light": "#404040",
+              "dark": "#BFBFBF"
             },
             "border-strong": {
-              "light": "#5E646E",
-              "dark": "#BCBEC2"
+              "light": "#1C1C1C",
+              "dark": "#EBEBEB"
             },
             "text-subtle": {
-              "light": "#2F3337",
-              "dark": "#CACBCE"
+              "light": "#404040",
+              "dark": "#BFBFBF"
             },
             "text-default": {
-              "light": "#15181E",
-              "dark": "#E4E5E7"
+              "light": "#1C1C1C",
+              "dark": "#EBEBEB"
             },
             "base-default": {
-              "dark": "#A1A5AA"
+              "dark": "#EBEBEB"
             },
             "base-hover": {
-              "light": "#2F3337",
-              "dark": "#BCBEC2"
+              "light": "#2F2F2F",
+              "dark": "#D6D6D6"
             },
             "base-active": {
-              "light": "#15181E",
-              "dark": "#CACBCE"
+              "light": "#404040",
+              "dark": "#BFBFBF"
             },
             "base-contrast-subtle": {
-              "light": "#F7F7F8",
-              "dark": "#0A0C0F"
+              "light": "#EBEBEB",
+              "dark": "#1C1C1C"
             },
             "base-contrast-default": {
-              "dark": "#040506"
+              "light": "#F9F9F9",
+              "dark": "#0D0D0D"
             }
           }
         }
