@@ -795,11 +795,11 @@
     "focus": {
       "inner": {
         "$type": "color",
-        "$value": "{color.override.focus1}"
+        "$value": "{color.neutral.background-default}"
       },
       "outer": {
         "$type": "color",
-        "$value": "{color.override.focus2}"
+        "$value": "{color.neutral.text-default}"
       }
     }
   },
