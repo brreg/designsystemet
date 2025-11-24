@@ -286,7 +286,7 @@
               "dark": "#050208"
             },
             "background-tinted": {
-              "light": "F7F4FB",
+              "light": "#F7F4FB",
               "dark": "#0D0515"
             },
             "surface-default": {
@@ -349,7 +349,7 @@
               "dark": "#0A0500"
             },
             "background-tinted": {
-              "light": "FFF7F0",
+              "light": "#FFF7F0",
               "dark": "#1A0E00"
             },
             "surface-default": {
