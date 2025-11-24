@@ -22,6 +22,7 @@
         "fontFamily": "Inter"
       },
       "borderRadius": 4
+      },
       "overrides": {
         "colors": {
           "main1": {
