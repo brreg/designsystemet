@@ -18,7 +18,7 @@
           "supporttest": "#380034"
         }
       },
-      "borderRadius": 4
+      "borderRadius": 4,
       "typography": {
         "fontFamily": "Inter"
       },
