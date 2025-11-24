@@ -28,8 +28,7 @@
           "success": "#003808",
           "warning": "#FF8700",
           "danger": "#570505"
-          }
-        },
+          },
         "colors": {
           "info": {
             "background-default": {
