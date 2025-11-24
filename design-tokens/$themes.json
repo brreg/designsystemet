@@ -71,7 +71,6 @@
   {
     "name": "Dark",
     "selectedTokenSets": {
-      "primitives/modes/color-scheme/dark/global": "enabled",
       "primitives/modes/color-scheme/dark/brreg": "enabled"
     },
     "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
@@ -82,7 +81,6 @@
   {
     "name": "Light",
     "selectedTokenSets": {
-      "primitives/modes/color-scheme/light/global": "enabled",
       "primitives/modes/color-scheme/light/brreg": "enabled"
     },
     "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
@@ -119,6 +117,22 @@
     "group": "Main color"
   },
   {
+    "id": "175bcfad8ab9ba59485558f824da6def5bcb8ac4",
+    "name": "main3",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/main3": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "ee1170dce264bb433ec9834495f6bfe54eb2bc4e",
+    "name": "maintest",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/maintest": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
     "id": "8fa5895cfad7c46cd3e6c45bc10f05d330fe1c49",
     "name": "support1",
     "selectedTokenSets": {
@@ -135,18 +149,10 @@
     "group": "Support color"
   },
   {
-    "id": "81fc02d6223807a909f9f819abc53bc2c0f85a91",
-    "name": "support3",
+    "id": "7923fa36588fbda0cf8208c4a06d5f917810f985",
+    "name": "supporttest",
     "selectedTokenSets": {
-      "semantic/modes/support-color/support3": "enabled"
-    },
-    "group": "Support color"
-  },
-  {
-    "id": "f6d6d5f643b4b84bd8cb3a107205be6329f37b39",
-    "name": "support4",
-    "selectedTokenSets": {
-      "semantic/modes/support-color/support4": "enabled"
+      "semantic/modes/support-color/supporttest": "enabled"
     },
     "group": "Support color"
   }
