@@ -809,17 +809,5 @@
           "dark": "#CDA6F2"
         }
       }
-    },
-    "spire": {
-      "colors": {
-        "main": {
-          "main1": "#0078A6"
-        },
-        "neutral": "#374955"
-      },
-      "typography": {
-        "fontFamily": "Open Sans"
-      },
-      "borderRadius": 4
     }
   }
