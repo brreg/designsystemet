@@ -91,7 +91,6 @@
             }
           },
           "main2": {
-            {
             "background-default": {
               "light": "#FFFAF5",
               "dark": "#0A0500"
