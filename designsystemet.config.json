@@ -11,17 +11,16 @@
           "main3": "#2D6787",
           "maintest": "#380034"
         },
+        "neutral": "#1C1C1C"
         "support": {
           "support1": "#001C3A",
           "support2": "#FF8700",
           "supporttest": "#380034"
-        },
-        "neutral": "#1C1C1C"
-      },
-      "typography": {
-        "fontFamily": "Inter"
+        }
       },
       "borderRadius": 4
+      "typography": {
+        "fontFamily": "Inter"
       },
       "overrides": {
         "colors": {
