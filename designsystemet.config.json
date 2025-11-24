@@ -27,7 +27,10 @@
           "info": "#001C3A",
           "success": "#003808",
           "warning": "#FF8700",
-          "danger": "#570505",
+          "danger": "#570505"
+          }
+        },
+        "colors": {
           "info": {
             "background-default": {
               "light": "#F5FAFF",
@@ -291,9 +294,7 @@
               "light": "#FFF5F5",
               "dark": "#1A0000"
             }
-          }
-        },
-        "colors": {
+          },
           "main1": {
             "background-default": {
               "light": "#F5FAFF",
