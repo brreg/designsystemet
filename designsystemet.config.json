@@ -538,10 +538,9 @@
               "dark": "#0D0D0D"
             }
           }
-        }
-      },
-      "severety": {
-        "success": {
+        },
+        "severety": {
+          "success": {
             "background-default": {
               "light": "#F5FFF6",
               "dark": "#000A02"
@@ -607,7 +606,7 @@
               "dark": "#001A04"
             }
           },
-         "warning": {
+          "warning": {
             "background-default": {
               "light": "#FFFAF5",
               "dark": "#0A0500"
@@ -673,7 +672,7 @@
               "dark": "#0A0500"
             }
           },
-        "danger": {
+          "danger": {
             "background-default": {
               "light": "#FFF5F5",
               "dark": "#1A0000"
@@ -739,7 +738,7 @@
               "dark": "#1A0000"
             }
           },
-        "info": {
+          "info": {
             "background-default": {
               "light": "#F5FAFF",
               "dark": "#010509"
@@ -805,6 +804,10 @@
               "dark": "#020C18"
             }
           }
+        },
+        "linkVisited": {
+          "light": "#4D1386",
+          "dark": "#CDA6F2"
         }
       }
     },
