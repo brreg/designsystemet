@@ -797,16 +797,6 @@
         "$type": "color",
         "$value": "#4D1386"
       }
-    },
-    "override": {
-      "focus1": {
-        "$type": "color",
-	      "$value": "#ECC238"
-      },
-      "focus2": {
-	      "$type": "color",        
-	      "$value": "#15181E" 
-      }
     }
   }
 }
