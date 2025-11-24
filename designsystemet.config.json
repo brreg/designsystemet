@@ -24,6 +24,10 @@
       },
       "overrides": {
         "severity": {
+          "info": "#001C3A",
+          "success": "#003808",
+          "warning": "#FF8700",
+          "danger": "#570505",
           "info": {
             "background-default": {
               "light": "#F5FAFF",
