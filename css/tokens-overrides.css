@@ -1,9 +1,0 @@
-@charset "UTF-8";
-:root, [data-color-scheme="light"] {
-    --ds-color-focus-inner: #ECC238;
-    --ds-color-focus-outer: #15181E;
-}
-[data-color-scheme="dark"] {
-    --ds-color-focus-inner: #15181E;
-    --ds-color-focus-outer: #ECC238;
-}
