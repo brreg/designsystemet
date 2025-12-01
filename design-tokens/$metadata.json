@@ -10,18 +10,17 @@
     "primitives/modes/typography/size/large",
     "primitives/modes/typography/primary/brreg",
     "primitives/modes/typography/secondary/brreg",
-    "primitives/modes/color-scheme/dark/global",
     "primitives/modes/color-scheme/dark/brreg",
-    "primitives/modes/color-scheme/light/global",
     "primitives/modes/color-scheme/light/brreg",
     "themes/brreg",
     "semantic/color",
     "semantic/modes/main-color/main1",
     "semantic/modes/main-color/main2",
+    "semantic/modes/main-color/main3",
+    "semantic/modes/main-color/maintest",
     "semantic/modes/support-color/support1",
     "semantic/modes/support-color/support2",
-    "semantic/modes/support-color/support3",
-    "semantic/modes/support-color/support4",
+    "semantic/modes/support-color/supporttest",
     "semantic/style"
   ]
 }
