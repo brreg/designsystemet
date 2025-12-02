@@ -289,7 +289,7 @@ design-tokens: v1.7.3
 
   color-scheme: light;
 }
- 
+
 @media (prefers-color-scheme: light) {
   [data-color-scheme="auto"] {
   --ds-color-main1-background-default: #F5FAFF;
@@ -856,7 +856,7 @@ design-tokens: v1.7.3
 
   color-scheme: dark;
 }
- 
+
 @media (prefers-color-scheme: dark) {
   [data-color-scheme="auto"] {
   --ds-color-main1-background-default: #010509;
