@@ -122,20 +122,20 @@
               "dark": "#008013"
             },
             "border-subtle": {
-              "light": "#179129",
-              "dark": "#81D58D"
-            },
-            "border-default": {
               "light": "#008013",
               "dark": "#9DE1A8"
+            },
+            "border-default": {
+              "light": "#005C0E",
+              "dark": "#B8F4C1"
             },
             "border-strong": {
               "light": "#003808",
               "dark": "#DAFCDF"
             },
             "text-subtle": {
-              "light": "#008013",
-              "dark": "#9DE1A8"
+              "light": "#005C0E",
+              "dark": "#B8F4C1"
             },
             "text-default": {
               "light": "#003808",
