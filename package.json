@@ -20,7 +20,7 @@
   "moduleResolution": "bundler",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "designsystemet tokens build --clean -o ./css/generated"
+    "build": "designsystemet tokens create && designsystemet tokens build --clean -o ./css/generated"
   },
   "devDependencies": {
     "@digdir/designsystemet": "^1.7.3"
