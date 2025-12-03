@@ -254,23 +254,23 @@
               "dark": "#861313"
             },
             "border-subtle": {
-              "light": "#861313",
+              "light": "#9C1616",
               "dark": "#F47171"
             },
             "border-default": {
-              "light": "#760A0A",
+              "light": "#861313",
               "dark": "#F8A5A5"
             },
             "border-strong": {
-              "light": "#380000",
+              "light": "#570505",
               "dark": "#FDD8D8"
             },
             "text-subtle": {
-              "light": "#760A0A",
+              "light": "#861313",
               "dark": "#F8A5A5"
             },
             "text-default": {
-              "light": "#380000",
+              "light": "#570505",
               "dark": "#FDD8D8"
             },
             "base-default": {
@@ -278,11 +278,11 @@
               "dark": "#F8A5A5"
             },
             "base-hover": {
-              "light": "#760A0A",
+              "light": "#861313",
               "dark": "#F58989"
             },
             "base-active": {
-              "light": "#861313",
+              "light": "#9C1616",
               "dark": "#F47171"
             },
             "base-contrast-subtle": {
