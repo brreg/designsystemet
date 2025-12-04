@@ -481,11 +481,11 @@
               "dark": "#ADD7F0"
             },
             "base-contrast-subtle": {
-              "light": "#D6EAFF",
+              "light": "#DAEFFB",
               "dark": "#062232"
             },
             "base-contrast-default": {
-              "light": "#F5FAFF",
+              "light": "#F6FBFE",
               "dark": "#030F17"
             }
           },
@@ -759,7 +759,7 @@
               "dark": "#141414"
             },
             "surface-default": {
-              "light": "#F3F3F3",
+              "light": "#F9F9F9",
               "dark": "#0D0D0D"
             },
             "surface-tinted": {

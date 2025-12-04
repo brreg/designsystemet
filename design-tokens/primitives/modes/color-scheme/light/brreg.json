@@ -191,11 +191,11 @@
       },
       "15": {
         "$type": "color",
-        "$value": "#D6EAFF"
+        "$value": "#DAEFFB"
       },
       "16": {
         "$type": "color",
-        "$value": "#F5FAFF"
+        "$value": "#F6FBFE"
       }
     },
     "maintest": {
@@ -473,7 +473,7 @@
       },
       "3": {
         "$type": "color",
-        "$value": "#F3F3F3"
+        "$value": "#F9F9F9"
       },
       "4": {
         "$type": "color",
