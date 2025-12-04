@@ -137,8 +137,8 @@ design-tokens: v1.7.3
   --ds-color-main3-base-default: #062232;
   --ds-color-main3-base-hover: #093853;
   --ds-color-main3-base-active: #0D4E72;
-  --ds-color-main3-base-contrast-subtle: #D6EAFF;
-  --ds-color-main3-base-contrast-default: #F5FAFF;
+  --ds-color-main3-base-contrast-subtle: #DAEFFB;
+  --ds-color-main3-base-contrast-default: #F6FBFE;
   --ds-color-maintest-background-default: #FFEBFE;
   --ds-color-maintest-background-tinted: #FFD6FC;
   --ds-color-maintest-surface-default: #FFE0FD;
@@ -157,7 +157,7 @@ design-tokens: v1.7.3
   --ds-color-maintest-base-contrast-default: #FFEBFE;
   --ds-color-neutral-background-default: #F9F9F9;
   --ds-color-neutral-background-tinted: #EBEBEB;
-  --ds-color-neutral-surface-default: #F3F3F3;
+  --ds-color-neutral-surface-default: #F9F9F9;
   --ds-color-neutral-surface-tinted: #E0E0E0;
   --ds-color-neutral-surface-hover: #D6D6D6;
   --ds-color-neutral-surface-active: #CFCFCF;
@@ -338,8 +338,8 @@ design-tokens: v1.7.3
   --ds-color-main3-base-default: #062232;
   --ds-color-main3-base-hover: #093853;
   --ds-color-main3-base-active: #0D4E72;
-  --ds-color-main3-base-contrast-subtle: #D6EAFF;
-  --ds-color-main3-base-contrast-default: #F5FAFF;
+  --ds-color-main3-base-contrast-subtle: #DAEFFB;
+  --ds-color-main3-base-contrast-default: #F6FBFE;
   --ds-color-maintest-background-default: #FFEBFE;
   --ds-color-maintest-background-tinted: #FFD6FC;
   --ds-color-maintest-surface-default: #FFE0FD;
@@ -358,7 +358,7 @@ design-tokens: v1.7.3
   --ds-color-maintest-base-contrast-default: #FFEBFE;
   --ds-color-neutral-background-default: #F9F9F9;
   --ds-color-neutral-background-tinted: #EBEBEB;
-  --ds-color-neutral-surface-default: #F3F3F3;
+  --ds-color-neutral-surface-default: #F9F9F9;
   --ds-color-neutral-surface-tinted: #E0E0E0;
   --ds-color-neutral-surface-hover: #D6D6D6;
   --ds-color-neutral-surface-active: #CFCFCF;
