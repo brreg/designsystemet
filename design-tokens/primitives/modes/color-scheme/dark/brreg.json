@@ -139,63 +139,63 @@
       },
       "2": {
         "$type": "color",
-        "$value": "#030E16"
+        "$value": "#041825"
       },
       "3": {
         "$type": "color",
-        "$value": "#05202E"
+        "$value": "#030F17"
       },
       "4": {
         "$type": "color",
-        "$value": "#082E44"
+        "$value": "#062232"
       },
       "5": {
         "$type": "color",
-        "$value": "#0C4869"
+        "$value": "#093853"
       },
       "6": {
         "$type": "color",
-        "$value": "#194B67"
+        "$value": "#0D4E72"
       },
       "7": {
         "$type": "color",
-        "$value": "#55849E"
+        "$value": "#85BFE0"
       },
       "8": {
         "$type": "color",
-        "$value": "#87A7BB"
+        "$value": "#ADD7F0"
       },
       "9": {
         "$type": "color",
-        "$value": "#B0C6D2"
+        "$value": "#DAEFFB"
       },
       "10": {
         "$type": "color",
-        "$value": "#C4D4DD"
+        "$value": "#ADD7F0"
       },
       "11": {
         "$type": "color",
-        "$value": "#D9E4E9"
+        "$value": "#DAEFFB"
       },
       "12": {
         "$type": "color",
-        "$value": "#87A7BB"
+        "$value": "#DAEFFB"
       },
       "13": {
         "$type": "color",
-        "$value": "#B0C6D2"
+        "$value": "#BCDDF1"
       },
       "14": {
         "$type": "color",
-        "$value": "#C4D4DD"
+        "$value": "#ADD7F0"
       },
       "15": {
         "$type": "color",
-        "$value": "#03131B"
+        "$value": "#062232"
       },
       "16": {
         "$type": "color",
-        "$value": "#02090E"
+        "$value": "#030F17"
       }
     },
     "maintest": {

@@ -8,7 +8,7 @@
         "main": {
           "main1": "#001C3A",
           "main2": "#FF8700",
-          "main3": "#2D6787",
+          "main3": "#062232",
           "maintest": "#380034"
         },
         "neutral": "#1C1C1C",
@@ -426,64 +426,67 @@
           },
           "main3": {
             "background-default": {
+              "light": "#F6FBFE",
               "dark": "#010609"
             },
             "background-tinted": {
-              "dark": "#030E16"
+              "light": "#E3F3FC",
+              "dark": "#041825"
             },
             "surface-default": {
-              "light": "#E2EAEE",
-              "dark": "#05202E"
+              "light": "#EDF7FD",
+              "dark": "#030F17"
             },
             "surface-tinted": {
-              "light": "#D9E4E9",
-              "dark": "#082E44"
+              "light": "#DAEFFB",
+              "dark": "#062232"
             },
             "surface-hover": {
-              "light": "#C4D4DD",
-              "dark": "#0C4869"
+              "light": "#BCDDF1",
+              "dark": "#093853"
             },
             "surface-active": {
-              "light": "#B0C6D2",
-              "dark": "#194B67"
+              "light": "#ADD7F0",
+              "dark": "#0D4E72"
             },
             "border-subtle": {
-              "light": "#87A7BB",
-              "dark": "#55849E"
+              "light": "#19658F",
+              "dark": "#85BFE0"
             },
             "border-default": {
-              "light": "#467C9B",
-              "dark": "#87A7BB"
+              "light": "#0D4E72",
+              "dark": "#ADD7F0"
             },
             "border-strong": {
-              "light": "#216083",
-              "dark": "#B0C6D2"
+              "light": "#062232",
+              "dark": "#DAEFFB"
             },
             "text-subtle": {
-              "light": "#0C4869",
-              "dark": "#C4D4DD"
+              "light": "#0D4E72",
+              "dark": "#ADD7F0"
             },
             "text-default": {
-              "light": "#082E44",
-              "dark": "#D9E4E9"
+              "light": "#062232",
+              "dark": "#DAEFFB"
             },
             "base-default": {
-              "dark": "#87A7BB"
+              "dark": "#DAEFFB"
             },
             "base-hover": {
-              "light": "#0C4869",
-              "dark": "#B0C6D2"
+              "light": "#093853",
+              "dark": "#BCDDF1"
             },
             "base-active": {
-              "light": "#082E44",
-              "dark": "#C4D4DD"
+              "light": "#0D4E72",
+              "dark": "#ADD7F0"
             },
             "base-contrast-subtle": {
-              "light": "#F0F4F6",
-              "dark": "#03131B"
+              "light": "#D6EAFF",
+              "dark": "#062232"
             },
             "base-contrast-default": {
-              "dark": "#02090E"
+              "light": "#F5FAFF",
+              "dark": "#030F17"
             }
           },
           "maintest": {
