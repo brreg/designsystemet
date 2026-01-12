@@ -23,6 +23,10 @@
         "fontFamily": "Inter"
       },
       "overrides": {
+        "focus": {
+           "inner": { "light": "#ECC238", "dark": "#15181E" },
+           "outer": { "light": "#15181E", "dark": "#ECC238" }
+         },
         "severity": {
           "info": "#001C3A",
           "success": "#003808",
