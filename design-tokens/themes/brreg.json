@@ -797,16 +797,6 @@
         "$type": "color",
         "$value": "{brreg.link.visited}"
       }
-    },
-    "focus": {
-      "inner-color": {
-        "$type": "color",
-        "$value": "{brreg.focus.inner}"
-      },
-      "outer-color": {
-        "$type": "color",
-        "$value": "{brreg.focus.outer}"
-      }
     }
   },
   "font-family": {
