@@ -23,7 +23,7 @@
     "build": "designsystemet tokens create && designsystemet tokens build --clean -o ./css/generated"
   },
   "devDependencies": {
-    "@digdir/designsystemet": "^1.7.3"
+    "@digdir/designsystemet": "^1.13.0"
   },
   "peerDependencies": {
     "@digdir/designsystemet-theme": "^1.0.0"
