@@ -3,11 +3,10 @@ name: Tag and publish on version change
 on:
   push:
     branches:
-      - main
+      - test-action
 
 permissions:
-  id-token: write  # Required for OIDC
-  contents: read
+  id-token: write
 
 jobs:
   release:
@@ -15,7 +14,7 @@ jobs:
     permissions:
       contents: write
       packages: write
-      id-token: write  # Required for OIDC
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -50,5 +49,3 @@ jobs:
       - name: Publish to NPM
         run: npm publish --access public
         if: env.tag_exists == 'false'
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
