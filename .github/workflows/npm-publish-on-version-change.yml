@@ -3,7 +3,7 @@ name: Tag and publish on version change
 on:
   push:
     branches:
-      - test-action
+      - main
 
 permissions:
       contents: write
