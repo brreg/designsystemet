@@ -50,5 +50,3 @@ jobs:
       - name: Publish to NPM
         run: npm publish --access public
         if: env.tag_exists == 'false'
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
