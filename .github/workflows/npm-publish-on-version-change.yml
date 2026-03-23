@@ -47,5 +47,5 @@ jobs:
           git push origin "v$VERSION"
 
       - name: Publish to NPM
-        run: npm publish --access public
+        run: npm publish --provenance
         if: env.tag_exists == 'false'
