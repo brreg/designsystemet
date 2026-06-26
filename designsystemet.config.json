@@ -5,18 +5,14 @@
   "themes": {
     "brreg": {
       "colors": {
-        "main": {
-          "main1": "#001C3A",
-          "main2": "#FF8700",
-          "main3": "#062232",
-          "maintest": "#380034"
-        },
-        "neutral": "#1C1C1C",
-        "support": {
-          "support1": "#001C3A",
-          "support2": "#FF8700",
-          "supporttest": "#380034"
-        }
+        "main1": "#001C3A",
+        "main2": "#FF8700",
+        "main3": "#062232",
+        "maintest": "#380034",
+        "support1": "#001C3A",
+        "support2": "#FF8700",
+        "supporttest": "#380034",
+        "neutral": "#1C1C1C"
       },
       "borderRadius": 4,
       "typography": {
@@ -24,15 +20,21 @@
       },
       "overrides": {
         "focus": {
-           "inner": { "light": "#ECC238", "dark": "#15181E" },
-           "outer": { "light": "#15181E", "dark": "#ECC238" }
-         },
+          "inner": {
+            "light": "#ECC238",
+            "dark": "#15181E"
+          },
+          "outer": {
+            "light": "#15181E",
+            "dark": "#ECC238"
+          }
+        },
         "severity": {
           "info": "#001C3A",
           "success": "#003808",
           "warning": "#FF8700",
           "danger": "#570505"
-          },
+        },
         "colors": {
           "info": {
             "background-default": {
