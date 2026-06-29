@@ -9,8 +9,6 @@ declare module '@digdir/designsystemet-types' {
     main3: never;
     maintest: never;
     support1: never;
-    support2: never;
-    supporttest: never;
     neutral: never;
   }
   export interface SeverityColorDefinitions {
