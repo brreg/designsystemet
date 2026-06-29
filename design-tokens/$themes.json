@@ -140,22 +140,6 @@
     "group": "Color"
   },
   {
-    "id": "de05e86fdcdf72f07cc0b9ef0a8a692250ab539a",
-    "name": "support2",
-    "selectedTokenSets": {
-      "semantic/color/support2": "enabled"
-    },
-    "group": "Color"
-  },
-  {
-    "id": "118039194d551d7c479d293704fc554a67a914d6",
-    "name": "supporttest",
-    "selectedTokenSets": {
-      "semantic/color/supporttest": "enabled"
-    },
-    "group": "Color"
-  },
-  {
     "id": "e7fb41a6a0544d8a8aa178232034311f9d725555",
     "name": "neutral",
     "selectedTokenSets": {
