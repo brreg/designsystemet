@@ -6,7 +6,7 @@
     --dsc-skiplink-background: var(--ds-color-focus-outer);
     --dsc-skiplink-color: var(--ds-color-focus-inner);
   }
-  .ds-button[data-variant=secondary], .ds-button[data-variant=tertiary] {
-    --dsc-button-color: var(--ds-color-text-default)
+  .ds-button[data-variant=secondary]:not(label.ds-button), .ds-button[data-variant=tertiary]:not(label.ds-button) {
+    --dsc-button-color:var(--ds-color-text-default)
   }
 }
