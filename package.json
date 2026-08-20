@@ -24,8 +24,5 @@
   },
   "devDependencies": {
     "@digdir/designsystemet": "^1.18.0"
-  },
-  "peerDependencies": {
-    "@digdir/designsystemet-theme": "^1.0.0"
   }
 }
